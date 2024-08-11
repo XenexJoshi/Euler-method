@@ -4,19 +4,16 @@ This program offers a numerical solution to first-order differential equations i
 
 To run the program, navigate to the program directory Euler-approximation-web and run the following in the terminal:
 
-
-npm install
-npm run dev
+   npm install
+   npm run dev
 
 Required modules before running program:
 
-
-react-plotly.js
+   react-plotly.js
 
 To install react-plotly, run:
 
-
-npm install react-plotly.js plotly.js
+   npm install react-plotly.js plotly.js
  
 References:
 
